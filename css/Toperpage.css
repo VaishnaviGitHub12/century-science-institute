@@ -1,0 +1,18 @@
+.sticky-nav {
+   position: fixed;
+    top: 0;
+    left: 0;
+    height: 10%;
+    width: 100%;
+    z-index: 1000;
+    background-color: #318CE7;  
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+    margin-bottom: 20px;
+    padding-top: 10px;
+    
+}
+
+.site-nav {
+  /* margin-bottom: 5px; Adjust margin as needed */
+  margin-bottom: 5px;
+}
